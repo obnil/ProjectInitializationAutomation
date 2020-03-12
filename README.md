@@ -73,7 +73,7 @@ flutter_netease_music
 ```bash
 USERNAME="obnil"
 TOKEN="0897ec5b084cb43b433dba342d8e4a40abce13b8"
-FILEPATH="/Users/namilin/workspaces/python"
+FILEPATH="/Users/namilin/workspaces/python/"
 ```
 You can generate new token from https://github.com/settings/tokens/new
 
